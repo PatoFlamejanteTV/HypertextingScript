@@ -10,7 +10,7 @@
 
 ## Whats that
 
-This is an **JS-Like language that compiles to HTML**, *made (mainly) for <1KB pages.*
+This is an **JS-Like language that compiles to HTML**, *made **(mainly)** for <1KB/<1MB pages.*
 
 ## Examples
 
