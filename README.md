@@ -31,7 +31,7 @@ p("BTW this is open-source :D")
 <p>BTW this is open-source :D</p>
 ```
 
-Btw, **check the online compiler too: https://codepen.io/PatoFlamejanteTV/pen/abeerxg**
+Btw, **check the online compiler too:** <a href="https://codepen.io/PatoFlamejanteTV/pen/abeerxg">https://codepen.io/PatoFlamejanteTV/pen/abeerxg</a>
 ## FAQ
 
 ### Linter? VS Code extension? Autocomplete?
