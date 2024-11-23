@@ -1,0 +1,2 @@
+# Why TS? Its for not mixing with the linguist chart thing, since the compiler is made of JS. - Pato
+*.hyscr linguist-language=TypeScript
