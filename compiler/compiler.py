@@ -36,15 +36,3 @@ def hts_to_html(hts_code):
     html_output = universal_tag_pattern.sub(replace_match, hts_code)
     
     return html_output
-
-# Example usage
-if __name__ == "__main__":
-    hts_example = """
-    h1("HypertextingScript")
-  
-    p("Thats like JS but its no JS its HypertextingScript")
-    p("BTW this is open-source :D")
-    """
-    
-    compiled_html = hts_to_html(hts_example)
-    print(compiled_html)
