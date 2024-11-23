@@ -11,7 +11,7 @@ function htsToHtml(htsCode) {
             // Matches patterns like tag[attributes]()
             const [attributeName, attributeValue] = attributes.split('=');
             if (attributeName && attributeValue) {
-                return `<${tag2} ${attributeName}="${attributeValue}">${attributeValue}</${tag2}>`;
+                return `<${tag2} ${attributeName}="${attributeValue}">${attributeValue}</${tag2}>`; // very messy code ngl
             } else {
                 console.warn(`Invalid attribute syntax: ${attributes}`);
                 return match; // Leave unprocessed if the attribute syntax is incorrect
@@ -22,3 +22,4 @@ function htsToHtml(htsCode) {
 
     return htmlOutput;
 }
+// easter egg: this im putting random comments on this bc i dont want python to be show as primary language on github :D
