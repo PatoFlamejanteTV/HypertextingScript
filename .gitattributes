@@ -1,3 +1,6 @@
 # Why TS? Its for not mixing with the linguist chart thing, since the compiler is made of JS. - Pato
 *.hyscr linguist-language=TypeScript
-*.md linguist-detectable=true
+
+# https://stackoverflow.com/a/78742496/26411616
+*.md linguist-documentation=false
+*.md linguist-detectable
