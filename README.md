@@ -37,3 +37,7 @@ Btw, **check the online compiler too:** <a href="https://codepen.io/PatoFlamejan
 ### Linter? VS Code extension? Autocomplete?
 
 Idk just the JS ones, still doing the same thing (mostly).
+
+### Wiki/Docs
+
+https://esolangs.org/wiki/HypertextingScript
