@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="BMngFuhCFgzanbXj-TANEkNmNq2GACXdYNLhTnDUXFA" />
-
 # HypertextingScript
 
 <center>
