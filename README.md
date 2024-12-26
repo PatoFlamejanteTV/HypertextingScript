@@ -14,7 +14,7 @@ This is an **JS-Like language that compiles to HTML**, *made **(mainly)** for <1
 
 ## Examples
 
-**Hypertexting:** _119 B (117 B)_
+**HypertextingScript:** _119 B (117 B)_
 
 ``` javascript
 h1("HypertextingScript")
